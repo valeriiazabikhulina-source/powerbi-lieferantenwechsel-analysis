@@ -1,0 +1,13 @@
+netzbetreiber_id,name,region
+NB-01,Netz Nord GmbH,Nord
+NB-02,Regionalnetz Mitte AG,Mitte
+NB-03,Stadtnetz Altburg,Mitte
+NB-04,Frankenwald Netz GmbH,Sued
+NB-05,Netzgesellschaft Ost,Ost
+NB-06,Energienetz Rhein-Main,West
+NB-07,Verteilnetz Sued-West,Sued
+NB-08,Stadtwerke Neuhausen Netz,Mitte
+NB-09,Netz Oberland GmbH,Sued
+NB-10,Kuestennetz AG,Nord
+NB-11,Netz Lausitz,Ost
+NB-12,Ruhr-Verteilnetz,West
